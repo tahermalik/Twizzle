@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+  <!-- Calendar outline -->
+  <rect x="8" y="10" width="28" height="26" rx="3" stroke="#00A3FF" stroke-width="3"/>
+  
+  <!-- Header line -->
+  <line x1="8" y1="18" x2="36" y2="18" stroke="#00A3FF" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Top rings -->
+  <line x1="16" y1="6" x2="16" y2="12" stroke="#00A3FF" stroke-width="3" stroke-linecap="round"/>
+  <line x1="28" y1="6" x2="28" y2="12" stroke="#00A3FF" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Small clock inside calendar (bottom-right corner) -->
+  <circle cx="30" cy="28" r="6" stroke="#00A3FF" stroke-width="2"/>
+  <path d="M30 24V28L33 30" stroke="#00A3FF" stroke-width="2" stroke-linecap="round"/>
+</svg>
